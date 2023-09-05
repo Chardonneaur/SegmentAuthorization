@@ -1,0 +1,29 @@
+{
+    "name": "SegmentAuthorization",
+    "description": "This plugin allows you to decide which users can create segments based on their status: user, admin, super user.",
+    "version": "0.1.0",
+    "theme": false,
+    "require": {
+        "matomo": ">=4.13.0,<6.0.0-b1"
+    },
+    "authors": [
+        {
+            "name": "Ronan Chardonneau",
+            "email": "",
+            "homepage": ""
+        }
+    ],
+    "support": {
+        "email": "",
+        "issues": "",
+        "forum": "",
+        "irc": "",
+        "wiki": "",
+        "source": "",
+        "docs": "",
+        "rss": ""
+    },
+    "homepage": "https://github.com/Chardonneaur/SegmentAuthorization",
+    "license": "GPL v3+",
+    "keywords": ["segment"]
+}
